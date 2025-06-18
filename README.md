@@ -391,21 +391,6 @@ jika ingin melihat file view yang lain bisa lihat di `resources/views`
 </html>
 ```
 
-- penambahan function di CetakKHSController
-
-```bash
-public function exportPdf()
-    {
-        $response = Http::get('http://localhost:8080/nilaiview');
-        if ($response->successful()) {
-            $khs = collect($response->json());
-            $pdf = Pdf::loadView('pdf.cetak', compact('khs')); // Ubah 'cetak.pdf' menjadi 'pdf.cetak'
-            return $pdf->download('khs.pdf');
-        } else {
-            return back()->with('error', 'Gagal mengambil data untuk PDF');
-        }
-    }
-```
 
 
 
