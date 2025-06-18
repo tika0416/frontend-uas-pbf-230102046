@@ -1,4 +1,4 @@
-# 🎓 FRONTEND - SISTEM INFORMASI PENGELOLAAN NILAI MAHASISWA
+# FRONTEND - SISTEM RUMAH SAKIT
 Website ini merupakan sistem informasi pengelolaan nilai mahasiswa yang dirancang untuk memudahkan dosen dan admin akademik dalam mengelola data mahasiswa, mata kuliah, serta input dan rekapitulasi nilai. Sistem ini menyediakan fitur pencatatan nilai secara terstruktur, pencarian data, serta laporan nilai akhir mahasiswa. Cocok digunakan untuk skala perguruan tinggi.
 
 Proyek ini merupakan implementasi frontend Laravel dengan Tailwind CSS yang berkomunikasi dengan backend REST API (dari CodeIgniter).
