@@ -6,7 +6,7 @@ Proyek ini merupakan implementasi frontend Laravel dengan Tailwind CSS yang berk
 
 🔗 Database : https://drive.google.com/drive/folders/1i4C-KC2sQjWilzbQ47SKOpCbkF88o0Wi
 
-## 🧱 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - Laravel 12
 - REST API Backend (misal: CodeIgniter 4)
 - Postman (untuk cek EndPoint BE)
@@ -36,7 +36,7 @@ php spark serve
 
 LINK POSTMAN : https://drive.google.com/drive/folders/1jy76yYynuSth7kelwv8vvqCEaPKYYmHQ?usp=drive_link
 
-## 🎨 FRONTEND
+##  FRONTEND
 <h3>1. Install Laravel </h3>
 <h3>Pastikan Prasyarat Terpenuhi</h3>
 Sebelum menginstal Laravel menggunakan Laragon, pastikan sistem memiliki:
@@ -84,7 +84,7 @@ SESSION_DRIVER=file
 php artisan serve
 ```
 
-## 📁 Routing 
+##  Routing 
 Di routes/web.php :
 
 ```bash
