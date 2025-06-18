@@ -2,8 +2,10 @@
 Sistem Rumah Sakit membantu pengelolaan data pasien dan obat secara terintegrasi untuk menunjang pelayanan kesehatan yang lebih baik. Data pasien mencakup identitas, riwayat kunjungan, diagnosa, serta rekam medis yang dapat diakses oleh tenaga medis untuk memberikan penanganan yang tepat. Sementara itu, sistem juga mengelola data obat mulai dari stok, resep dokter, distribusi, hingga penggunaan obat oleh pasien. Dengan sistem ini, proses pemberian obat menjadi lebih terkontrol dan tercatat dengan baik, serta meminimalkan kesalahan dalam penanganan pasien.
 
 
-Proyek ini merupakan implementasi frontend Laravel dengan Tailwind CSS yang berkomunikasi dengan backend REST API (dari CodeIgniter).
 🔗 BackEnd  :https://github.com/tika0416/Backend_rumahsakit.git
+
+
+
 🔗 Database : https://drive.google.com/drive/folders/1i4C-KC2sQjWilzbQ47SKOpCbkF88o0Wi
 
 ## Teknologi yang Digunakan
